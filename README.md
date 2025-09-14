@@ -1,3 +1,25 @@
+# 👋 Hi, I’m George Njuguna
+
+🎯 **Data Analyst | Aspiring Data Scientist**
+📍 **Based in Nairobi, Kenya**
+
+Welcome to my GitHub! I specialize in **transforming raw datasets into meaningful insights that support better decision-making and highlight opportunities for growth**. With a background in **Statistics** and hands-on experience in **Python, SQL, R, Tableau, and Excel**, I build projects that combine strong analytical foundations with real-world applications.
+
+---
+
+## 🚀 What I Do
+
+* 📊 **Data Analysis & Visualization** – Extracting patterns and building clear data stories
+* ⚙️ **Data Engineering (ETL Pipelines)** – Automating workflows with Airflow, Docker, and PostgreSQL
+* 🤖 **Machine Learning & Predictive Modeling** – Applying models to solve practical problems
+* 📈 **Domain Focus** – Finance, Marketing, and Predictive Analytics
+
+---
+
+## 📬 Let’s Connect
+
+* 📍 Nairobi, Kenya
+* 📧 [Email](mailto:mailtonjuguna@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/g-njuguna) 

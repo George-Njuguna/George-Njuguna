@@ -1,6 +1,6 @@
 # 👋 Hi, I’m George Njuguna
 
-🎯 **Data Analyst | Aspiring Data Scientist**
+🎯 **Data Analyst | Aspiring Data Engineer**
 📍 **Based in Nairobi, Kenya**
 
 Welcome to my GitHub! I specialize in **transforming raw datasets into meaningful insights that support better decision-making and highlight opportunities for growth**. With a background in **Statistics** and hands-on experience in **Python, SQL, R, Tableau, and Excel**, I build projects that combine strong analytical foundations with real-world applications.
